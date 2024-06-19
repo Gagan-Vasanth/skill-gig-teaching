@@ -15,4 +15,8 @@ Here are the useful steps and links for the course:
    JS Youtube Playlist: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini.
    
    JS MDN Docs: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+   Difference between var, let, and const https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+   Difference between normal functions and arrow functions: https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
    
