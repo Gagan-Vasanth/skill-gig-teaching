@@ -11,4 +11,5 @@ Here are the useful steps and links for the course:
 2. Day 2
    Javascript Concepts: var, let, and const. Difference b/w them. Hoisting. Functions in JS (Arrow functions).
    JS Youtube Playlist: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini
+   JS MDN Docs: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
    
