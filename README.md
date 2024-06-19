@@ -19,4 +19,5 @@ Here are the useful steps and links for the course:
    Difference between var, let, and const https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
    Difference between normal functions and arrow functions: https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
-   
+
+   End of file
