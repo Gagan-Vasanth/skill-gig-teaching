@@ -22,3 +22,13 @@ Here are the useful steps and links for the course:
 
    Home Work:
       Hoisting Youtube Video: https://www.youtube.com/watch?v=Fnlnw8uY6jo&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=4&ab_channel=AkshaySaini
+
+   3. Day 3
+      Code explanation of Hositing and Difference b/w var, let and const: Check the day3.js file for the same and in order to run the code
+      move to the root of the repository and using the node file_name you can run the code indepedently in your machine.
+
+      ```
+         node day3.js
+      ```
+
+      Promises in JS: 
