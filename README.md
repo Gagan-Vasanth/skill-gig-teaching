@@ -20,4 +20,5 @@ Here are the useful steps and links for the course:
 
    Difference between normal functions and arrow functions: https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
 
-   End of file
+   Home Work:
+      Hoisting Youtube Video: https://www.youtube.com/watch?v=Fnlnw8uY6jo&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=4&ab_channel=AkshaySaini
