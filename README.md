@@ -23,21 +23,21 @@ Here are the useful steps and links for the course:
    Home Work:
       Hoisting Youtube Video: https://www.youtube.com/watch?v=Fnlnw8uY6jo&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=4&ab_channel=AkshaySaini
 
-   3. Day 3
-      Code explanation of Hositing and Difference b/w var, let, and const: Check the day3.js file for the same and in order to run the code
-      move to the root of the repository and using the node file_name you can run the code independently in your machine.
+3. Day 3
+   Code explanation of Hositing and Difference b/w var, let, and const: Check the day3.js file for the same and in order to run the code
+   move to the root of the repository and using the node file_name you can run the code independently in your machine.
 
-      ```
-         node day3.js
-      ```
+   ```
+      node day3.js
+   ```
 
-      Promises in JS:
+   Promises in JS:
 
-      ReactJs Docs: https://docs.google.com/document/d/1U_tCFCbpk27GK3QPDIJbvAQ76ETg7EhJEw5Feo9f9lM/edit?usp=sharing
+   ReactJs Docs: https://docs.google.com/document/d/1U_tCFCbpk27GK3QPDIJbvAQ76ETg7EhJEw5Feo9f9lM/edit?usp=sharing
 
-   4. Day 4
-      Demo React App Github Link: https://github.com/Gagan-Vasanth/demoReactApp
+4. Day 4
+   Demo React App Github Link: https://github.com/Gagan-Vasanth/demoReactApp
 
-      Login and Signup Page design: https://www.figma.com/community/file/1109696045310524123
+   Login and Signup Page design: https://www.figma.com/community/file/1109696045310524123
 
 
