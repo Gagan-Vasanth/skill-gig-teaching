@@ -38,4 +38,6 @@ Here are the useful steps and links for the course:
    4. Day 4
       Demo React App Github Link: https://github.com/Gagan-Vasanth/demoReactApp
 
+      Login and Signup Page design: https://www.figma.com/community/file/1109696045310524123
+
 
