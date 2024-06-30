@@ -43,4 +43,6 @@ Here are the useful steps and links for the course:
 5. Day 8
    My App Backend application application link: https://github.com/Gagan-Vasanth/my-app-backend
 
+6. Last week Online Class Meeting Link: https://meet.google.com/sry-xzjw-hwi
+   Class from 11:00-12:10, Practice from 3:30 - 4:30
 
