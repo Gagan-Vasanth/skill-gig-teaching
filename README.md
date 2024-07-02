@@ -46,3 +46,44 @@ Here are the useful steps and links for the course:
 6. Last week Online Class Meeting Link: https://meet.google.com/sry-xzjw-hwi
    Class from 11:00-12:10, Practice from 3:30 - 4:30
 
+7. Backend Deployment: https://render.com/
+   Frontend delpoyment: https://vercel.com/login
+   1. Deploy the Frontend Application with React.js
+   Using Vercel
+   Create a Vercel Account:
+   Sign up at Vercel.
+   Install Vercel CLI:
+   If you haven't installed it yet, you can do it via npm:
+
+   npm install -g vercel
+
+   Initialize Vercel in Your Project:
+   Navigate to your project directory and run:
+  
+   vercel
+   
+   Follow the prompts to link your project to Vercel.
+   Deploy Your Application:
+   
+   Once linked, you can deploy your application by running:
+   
+   vercel --prod
+
+   2. Deploy the Backend Application with Express.js and MongoDB
+   Using Render
+   
+   Create a Render Account:
+   
+   Sign up at Render.
+   Create a New Web Service:
+   
+   Go to the Render dashboard, click "New" and then "Web Service".
+   Connect your GitHub repository containing your Express.js backend.
+   Configure the Service:
+   
+   Select the branch to deploy from and set the build and start commands.
+   Build command: npm install
+   Start command: npm start (or the command you use to start your Express server)
+   Deploy the Service:
+   
+   Click "Create Web Service" and Render will deploy your backend.
